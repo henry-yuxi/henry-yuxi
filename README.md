@@ -43,9 +43,9 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 
 
 ### 🙈 Statistics
-![](https://github-readme-stats.vercel.app/api?username=henry-yuxi&show_icons=true&theme=highcontrast)
+![](https://github-readme-stats.vercel.app/api?username=henry-yuxi&show_icons=true&theme=tokyonight)
 
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-yuxi&theme=highcontrast&layout=compact)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=henry-yuxi&theme=tokyonight&layout=compact)
 
 </br>
 
