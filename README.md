@@ -50,4 +50,4 @@ dark, radical, merko, gruvbox, tokyonight, onedark, cobalt, synthwave, highcontr
 </br>
 
 ### 🌱 Connect Me
-[![Github](https://img.shields.io/github/followers/dumplingbao?label=Github&style=social)](https://github.com/henry-yuxi) [![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/b2cc75d9fb36) [![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://henry-yuxi.github.io/)
+![Github](https://img.shields.io/github/followers/henry-yuxi?label=Github&style=social) [![简书](https://img.shields.io/badge/简书-diss带码-blue)](https://www.jianshu.com/u/b2cc75d9fb36) [![Blog](https://img.shields.io/badge/Blog-diss带码-blue)](https://henry-yuxi.github.io/)
