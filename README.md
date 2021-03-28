@@ -1,6 +1,6 @@
 ### Hi there, I'm Mr.Hu 👋
 
-Hi, I'm Mr.Hu, Unity开发工程师。
+Hi, I'm Mr.Hu, 游戏开发从业者。
 
 <!--
 **henry-yuxi/henry-yuxi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
